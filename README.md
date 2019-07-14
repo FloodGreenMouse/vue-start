@@ -1,4 +1,5 @@
-# portfolio
+# Vue start
+Clear vue project with pug and scss
 
 ## Project setup
 ```
